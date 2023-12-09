@@ -30,9 +30,9 @@
 }
 
 :root {
-  --primaryColor: #FF0000;
-  --primaryBoldColor: #af0202;
-  --primaryBlackColor: #9b0101;
+  --primaryColor: #0F2EB9;  /* #FF0000; */
+  --primaryBoldColor: #314CC6; /* #af0202; */
+  --primaryBlackColor: #3B58DE;/* #9b0101; */
   --secondaryColor: #ffffff;
   --opaqueBackground: #000000e6;
   --mainCanvasBackground: #141414;
